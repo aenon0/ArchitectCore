@@ -11,6 +11,7 @@ using HRLeaveManagement.Application.DTOs.LeaveRequest.Validator;
 using HRLeaveManagement.Application.Exceptions;
 using HRLeaveManagement.Application.Responses;
 using System.Threading;
+using HRLeaveManagement.Domain;
 
 namespace HRLeaveManagement.Application.Features.LeaveRequests.Handlers.Commands
 {

@@ -9,6 +9,7 @@ using HRLeaveManagement.Application.Features.LeaveTypes.Request.Commands;
 using HRLeaveManagement.Application.Persistance.Contracts;
 using HRLeaveManagement.Application.Exceptions;
 using System.Threading;
+using HRLeaveManagement.Domain;
 
 namespace HRLeaveManagement.Application.Features.LeaveTypes.Handlers.Commands
 {
